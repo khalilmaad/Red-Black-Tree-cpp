@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1794563543 source:c:\users\baye\khalil\programs\cpp\arbre_red_black\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<chrono>
+	<random>
+	<iomanip>
+	<map>
+	<set>
+	<unordered_map>
+	<algorithm>
+	<cstdlib>
+
